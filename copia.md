@@ -42,7 +42,8 @@ The OCM tournament was run by the next comunity members:
 | Map Selector | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
 | Commentator | ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) , ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102)|
 | Referee | ![][flag_CL] [Hinoshi](https://osu.ppy.sh/users/9200197) ,  ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) |
-| Designer| ![][flag_MX] [ShadowMerry](https://osu.ppy.sh/users/3104864) |
+| Designer | ![][flag_MX] [ShadowMerry](https://osu.ppy.sh/users/3104864) |
+| Streamer | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
 
 
 ## Links
