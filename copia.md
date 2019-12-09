@@ -37,7 +37,7 @@ The OCM tournament was run by the next comunity members:
 
 | Position | Members |
 | :-: | :--- |
-| Host | [Rei-](https://osu.ppy.sh/users/2317102) , [daxeroz](https://osu.ppy.sh/users/1170156) |
+| Host | [Rei-](https://osu.ppy.sh/users/2317102) , ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
 | Co-Host | [Metak](https://osu.ppy.sh/users/2861255) |
 | Map Selector | [daxeroz](https://osu.ppy.sh/users/1170156) |
 | Commentator | [-Boltic-](https://osu.ppy.sh/users/5297904) , [Rei-](https://osu.ppy.sh/users/2317102)|
@@ -48,7 +48,7 @@ The OCM tournament was run by the next comunity members:
 ## Links
 
 - [Discussion thread](inserte link del post)
-- [Livestream](https://www.twitch.tv/ocmhispano)
+- [Livestream](https://www.twitch.tv/osucupmaster)
 - [Discord server](https://discord.gg/Y9MKD8m)
 
 ---
@@ -104,7 +104,7 @@ This competition has come to an end and resulted in the following podium:
 
 ---
 -->
-
+<!--
 ## Mappools
 
 ## Ruleset
@@ -233,6 +233,7 @@ This competition has come to an end and resulted in the following podium:
 6. **Reschedules may only be requested by a team captain.**
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
 7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
+-->
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
@@ -254,7 +255,7 @@ This competition has come to an end and resulted in the following podium:
 [flag_IT]: /wiki/shared/flag/IT.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
+[flag_MX]: https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/MX.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_NO]: /wiki/shared/flag/NO.gif
 [flag_NZ]: /wiki/shared/flag/NZ.gif
@@ -269,4 +270,3 @@ This competition has come to an end and resulted in the following podium:
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_VE]: /wiki/shared/flag/VE.gif
 [flag_VN]: /wiki/shared/flag/VN.gif
--->
