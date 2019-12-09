@@ -37,12 +37,12 @@ The OCM tournament was run by the next comunity members:
 
 | Position | Members |
 | :-: | :--- |
-| Host | [Rei-](https://osu.ppy.sh/users/2317102) , ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
-| Co-Host | [Metak](https://osu.ppy.sh/users/2861255) |
-| Map Selector | [daxeroz](https://osu.ppy.sh/users/1170156) |
-| Commentator | [-Boltic-](https://osu.ppy.sh/users/5297904) , [Rei-](https://osu.ppy.sh/users/2317102)|
-| Referee | [Hinoshi](https://osu.ppy.sh/users/9200197) ,  [-Boltic-](https://osu.ppy.sh/users/5297904) |
-| Designer| [ShadowMerry](https://osu.ppy.sh/users/3104864) |
+| Host | ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102) , ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
+| Co-Host | ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255) |
+| Map Selector | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
+| Commentator | ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) , ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102)|
+| Referee | ![][flag_CL] [Hinoshi](https://osu.ppy.sh/users/9200197) ,  ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) |
+| Designer| ![][flag_MX] [ShadowMerry](https://osu.ppy.sh/users/3104864) |
 
 
 ## Links
@@ -235,39 +235,8 @@ This competition has come to an end and resulted in the following podium:
 7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 -->
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_CZ]: /wiki/shared/flag/CZ.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: https://github.com/ppy/osu-wiki/blob/master/wiki/shared/flag/MX.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PA]: /wiki/shared/flag/Pa.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RO]: /wiki/shared/flag/RO.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+
+[flag_MX]: /images/flag/MX.gif
+[flag_CL]: /images/flag/CL.gif
+[flag_PA]: /images/flag/PA.gif
+[flag_PE]: /images/flag/PE.gif
