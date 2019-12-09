@@ -26,8 +26,8 @@ Bienvenidos sean todos a las 3ra edicion de la OCM ( Osu!Catch master) Espero qu
 
 | Placing | Prize(s) |
 | :-: | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | winner badge for each member (to be confirmed by peppy)|
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | a month of Osu!support for each member|
+| ![][GCrown] | winner badge for each member (to be confirmed by peppy)|
+| ![][SCrown] | a month of Osu!support for each member (to be confirmed)|
 
 ->inserte chapita aca<-
 
@@ -240,3 +240,5 @@ This competition has come to an end and resulted in the following podium:
 [flag_CL]: /images/flag/CL.gif
 [flag_PA]: /images/flag/PA.gif
 [flag_PE]: /images/flag/PE.gif
+[GCrown]: /images/GCrown.png
+[SCrown]: /images/SCrown.png
