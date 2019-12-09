@@ -3,47 +3,48 @@ tags:
 - CWC 2019
 - CWC2019
 ---
-# osu!catch World Cup 2019
+# Osu Catch Master Tournament
 
-![CWC 2019 Logo](img/logo.jpg)
+->Inserte logo aca<-
 
-The **osu!catch World Cup 2019** (**_CWC 2019_**) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eight installment of the osu!catch World Cup.
+Bienvenidos sean todos a las 3ra edicion de la OCM ( Osu!Catch master) Espero que se les sea de su agrado y se diviertan en este torneo.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-05-29/2019-06-11 |
-| Live Drawings | 2019-06-22 (16:00 UTC) |
-| Group Stage | 2019-06-29/2019-06-30 |
-| Round of 16 | 2019-07-06/2019-07-07 |
-| Quarterfinals | 2019-07-13/2019-07-14 |
-| Semifinals | 2019-07-20/2019-07-21 |
-| Finals | 2019-07-27/2019-07-28 |
-| Grand Finals | 2019-08-03/2019-08-04 |
+| Registration Phase | 2019-12-14 / 2020-01-25 |
+| Live Drawings | 2020-02-01 |
+| Group Stage | 2020-02-08 / 2020-02-09 |
+| Round of 16 | 2020-02-15 / 2020-02-16 |
+| Quarterfinals | 2020-02 22 / 2020-02 23 |
+| Semifinals | 2020-02-29 / 2020-03-01 |
+| Finals | 2020-03-07 |
+| Grand Finals | 2020-03-14 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, unique profile badge, "osu!catch Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, Unique profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, Unique profile badge |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | winner badge for each member |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | a month of Osu!support for each member|
 
-![CWC 2019 Winner Badge](img/badge.png)
+->inserte chapita aca<-
 
 ## Organisation
 
-The osu!catch World Cup 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The OCM tournament was run by the next comunity members:
 
 | Position | Members |
 | :-- | :-- |
-| Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
-| Map Selector | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589) |
-| Commentator | ![][flag_US] [chickenbible](https://osu.ppy.sh/users/2306637), ![][flag_NO] [Divine Cake](https://osu.ppy.sh/users/3636998), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_US] [Elux](https://osu.ppy.sh/users/12004983), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508), ![][flag_AU] [KWYJIBO](https://osu.ppy.sh/users/7178386), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941) |
-| Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Manager | [Rei-](https://osu.ppy.sh/users/2317102), [daxeroz](https://osu.ppy.sh/users/1170156) |
+| Map Selector | [daxeroz](https://osu.ppy.sh/users/1170156) |
+| Commentator | [-Boltic-](https://osu.ppy.sh/users/5297904) |
+| Referee |  |
+| Slave | [Metak](https://osu.ppy.sh/users/2861255) |
 
+
+<!--
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/913952)
@@ -562,3 +563,4 @@ This competition has come to an end and resulted in the following podium:
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_VE]: /wiki/shared/flag/VE.gif
 [flag_VN]: /wiki/shared/flag/VN.gif
+-->
