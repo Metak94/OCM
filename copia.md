@@ -36,6 +36,7 @@ Bienvenidos sean todos a las 3ra edicion de la OCM ( Osu!Catch master) Espero qu
 The OCM tournament was run by the next comunity members:
 
 | Position | Members |
+| :-: | :--- |
 | Host | [Rei-](https://osu.ppy.sh/users/2317102) , [daxeroz](https://osu.ppy.sh/users/1170156) |
 | Co-Host | [Metak](https://osu.ppy.sh/users/2861255) |
 | Map Selector | [daxeroz](https://osu.ppy.sh/users/1170156) |
