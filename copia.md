@@ -41,7 +41,7 @@ The OCM tournament was run by the next comunity members:
 | Co-Host | [Metak](https://osu.ppy.sh/users/2861255) |
 | Map Selector | [daxeroz](https://osu.ppy.sh/users/1170156) |
 | Commentator | [-Boltic-](https://osu.ppy.sh/users/5297904) , [Rei-](https://osu.ppy.sh/users/2317102)|
-| Referee | chante arbitros aca |
+| Referee | [Hinoshi](https://osu.ppy.sh/users/9200197) ,  [-Boltic-](https://osu.ppy.sh/users/5297904) |
 | Designer| [ShadowMerry](https://osu.ppy.sh/users/3104864) |
 
 
@@ -259,6 +259,7 @@ This competition has come to an end and resulted in the following podium:
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_NO]: /wiki/shared/flag/NO.gif
 [flag_NZ]: /wiki/shared/flag/NZ.gif
+[flag_PA]: /wiki/shared/flag/Pa.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_RO]: /wiki/shared/flag/RO.gif
