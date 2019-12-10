@@ -102,9 +102,9 @@ will be Low Seed, to end the Unseed teams.
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 
 **Winning conditions:**
-In Group Stage, you need to win 5 maps to win a match. (Best-of-9)
-In the Quarterfinals and the Semifinals, you need to win 6 maps to win a match. (Best-of-11)
-In the Finals and Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
+- In Group Stage, you need to win 5 maps to win a match. (Best-of-9)
+- In the Quarterfinals and the Semifinals, you need to win 6 maps to win a match. (Best-of-11)
+- In the Finals and Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
 
 
 <!--
