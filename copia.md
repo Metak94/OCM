@@ -3,11 +3,11 @@ tags:
 - OCM 2020
 - OCM2020
 ---
-# Osu Cup Master Tournament (OCM)
+# Osu Cup Master (OCM): Osu!catch edition
 
 ->Inserte logo aca<-
 
-Bienvenidos sean todos a las 3ra edicion de la OCM ( Osu!Catch master) Espero que se les sea de su agrado y se diviertan en este torneo.
+Welcome everyone to the 3rd version  of the Osu Cup Master. This version will be played the osu!catch game mode. We hope you'll enjoy it and have fun on this competition.
 
 ## Tournament Schedule
 
@@ -38,7 +38,7 @@ The OCM tournament was run by the next comunity members:
 | Position | Members |
 | :-: | :--- |
 | Host | ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102) , ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
-| Co-Host | ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255) |
+| Manager | ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255) |
 | Map Selector | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
 | Commentator | ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) , ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102)|
 | Referee | ![][flag_CL] [Hinoshi](https://osu.ppy.sh/users/9200197) ,  ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) |
@@ -58,39 +58,6 @@ The OCM tournament was run by the next comunity members:
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AR] | **Argentina** | **[\[Force\]](https://osu.ppy.sh/users/1617217)**, [VelperK](https://osu.ppy.sh/users/348467), [NachOx](https://osu.ppy.sh/users/3971534), [warning dark](https://osu.ppy.sh/users/5040981), [jerem1as](https://osu.ppy.sh/users/6117864), [Ambition-](https://osu.ppy.sh/users/6960376) |
-| ![][flag_AU] | **Australia** | **[chickennando](https://osu.ppy.sh/users/5818665)**, [yennibear](https://osu.ppy.sh/users/3874176), [Jaye](https://osu.ppy.sh/users/4841352), [die Eisdiele](https://osu.ppy.sh/users/7155262), [KWYJIBO](https://osu.ppy.sh/users/7178386) |
-| ![][flag_BE] | **Belgium** | **[Quinten323](https://osu.ppy.sh/users/6283136)**, [\[ Seraf \]](https://osu.ppy.sh/users/6376151), [Zhiend](https://osu.ppy.sh/users/7474404), [Parapluutje](https://osu.ppy.sh/users/9074469), [Azzari](https://osu.ppy.sh/users/10389331), [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) |
-| ![][flag_BR] | **Brazil** | **[Hanik](https://osu.ppy.sh/users/4533507)**, [Super Choke](https://osu.ppy.sh/users/2054788), [Taishi-](https://osu.ppy.sh/users/2349221), [Predominador](https://osu.ppy.sh/users/4568537), [ExNando](https://osu.ppy.sh/users/5960935), [-Overdose-](https://osu.ppy.sh/users/7749445) |
-| ![][flag_CA] | **Canada** | **[wwwww-](https://osu.ppy.sh/users/3616480)**, [Henrick](https://osu.ppy.sh/users/8840982), [1111](https://osu.ppy.sh/users/2747940), [earl-](https://osu.ppy.sh/users/3625415), [\_wwwww](https://osu.ppy.sh/users/4820793), [melonsigh](https://osu.ppy.sh/users/8623922) |
-| ![][flag_CL] | **Chile** | **[lineqtxz](https://osu.ppy.sh/users/989542)**, [eldnl](https://osu.ppy.sh/users/285756), [[Nico]](https://osu.ppy.sh/users/1011240), [NachoL](https://osu.ppy.sh/users/1250096), [Aryssiel](https://osu.ppy.sh/users/2389481), [lechuguin](https://osu.ppy.sh/users/2872000) |
-| ![][flag_CN] | **China** | **[Dusk](https://osu.ppy.sh/users/533210)**, [KagamineRin02](https://osu.ppy.sh/users/518503), [Sakurano  Kurimu](https://osu.ppy.sh/users/1338103), [Crystal](https://osu.ppy.sh/users/1646397), [- N a g i -](https://osu.ppy.sh/users/2956936), [Callionet](https://osu.ppy.sh/users/3072921) |
-| ![][flag_CO] | **Colombia** | **[Deley-](https://osu.ppy.sh/users/8291465)**, [-Narnia-](https://osu.ppy.sh/users/3600162), [Titan-](https://osu.ppy.sh/users/7855767), [\[ Azu- \]](https://osu.ppy.sh/users/8290364), [Umi Sonoda-](https://osu.ppy.sh/users/8579779), [UNORDINARY](https://osu.ppy.sh/users/9519851) |
-| ![][flag_CZ] | **Czech Republic** | **[-\[NetriX\]-](https://osu.ppy.sh/users/10770802)**, [Wishs](https://osu.ppy.sh/users/4013465), [xMakron](https://osu.ppy.sh/users/5928207), [SimplyHai](https://osu.ppy.sh/users/9784522) |
-| ![][flag_DK] | **Denmark** | **[SharpN](https://osu.ppy.sh/users/4382076)**, [Captain](https://osu.ppy.sh/users/2563435), [Only1Magma](https://osu.ppy.sh/users/3922957), [kaare12356](https://osu.ppy.sh/users/4434640), [Waffe latte](https://osu.ppy.sh/users/9699561), [SchnitzelBae](https://osu.ppy.sh/users/11253135) |
-| ![][flag_FI] | **Finland** | **[forgottentaco](https://osu.ppy.sh/users/6109660)**, [YERTI](https://osu.ppy.sh/users/1490757), [Awsumi](https://osu.ppy.sh/users/4174308), [Kurtsi](https://osu.ppy.sh/users/4222176), [Nikolai](https://osu.ppy.sh/users/5302804), [noksu15](https://osu.ppy.sh/users/10161144) |
-| ![][flag_FR] | **France** | **[AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877)**, [monstratorfull](https://osu.ppy.sh/users/1872276), [Noulayfe](https://osu.ppy.sh/users/4316542), [Holloh](https://osu.ppy.sh/users/7612994), [Boros](https://osu.ppy.sh/users/5490623), [Alostis](https://osu.ppy.sh/users/2986875) |
-| ![][flag_DE] | **Germany** | **[Vinci007](https://osu.ppy.sh/users/5030297)**, [Poriyon](https://osu.ppy.sh/users/4691991), [Ginoshi](https://osu.ppy.sh/users/5398106), [namirin](https://osu.ppy.sh/users/6414332), [Inryoku](https://osu.ppy.sh/users/6562920), [Marvmallow](https://osu.ppy.sh/users/8403032) |
-| ![][flag_HK] | **Hong Kong** | **[Touch Me](https://osu.ppy.sh/users/9155988)**, [Latifah-sama](https://osu.ppy.sh/users/1226238), [Suigetsu Kyouka](https://osu.ppy.sh/users/1311496), [SakaNaz](https://osu.ppy.sh/users/1784164), [ajstyles](https://osu.ppy.sh/users/6461445), [Time Series](https://osu.ppy.sh/users/6645501) |
-| ![][flag_ID] | **Indonesia** | **[dika312](https://osu.ppy.sh/users/741613)**, [Galaxi](https://osu.ppy.sh/users/2552435), [Minalinsky-](https://osu.ppy.sh/users/2823883), [Funtastic](https://osu.ppy.sh/users/3555626), [Extinction666](https://osu.ppy.sh/users/5472877), [LeWind](https://osu.ppy.sh/users/9718235) |
-| ![][flag_IT] | **Italy** | **[Karym](https://osu.ppy.sh/users/5220794)**, [Bananajoe](https://osu.ppy.sh/users/330764), [Pizza Kun](https://osu.ppy.sh/users/768609), [Trollingor](https://osu.ppy.sh/users/4144266), [Spinacina](https://osu.ppy.sh/users/4277070), [ArMa79](https://osu.ppy.sh/users/4982799) |
-| ![][flag_JP] | **Japan** | **[T e d](https://osu.ppy.sh/users/538717)**, [noraRcat](https://osu.ppy.sh/users/883939), [kusakabe001](https://osu.ppy.sh/users/129806), [Furely](https://osu.ppy.sh/users/853694), [nyanmi-1828](https://osu.ppy.sh/users/6866480) |
-| ![][flag_MX] | **Mexico** | **[daxeroz](https://osu.ppy.sh/users/1170156)**, [Cowboy](https://osu.ppy.sh/users/1237535), [-Deleck-](https://osu.ppy.sh/users/3094340), [Kashou](https://osu.ppy.sh/users/4046640), [Cxlucha](https://osu.ppy.sh/users/5063961), [Firu](https://osu.ppy.sh/users/10516547) |
-| ![][flag_NL] | **Netherlands** | **[Wesley](https://osu.ppy.sh/users/2407265)**, [Sartan](https://osu.ppy.sh/users/4100941), [MasterForcer](https://osu.ppy.sh/users/3263646), [woodpamp](https://osu.ppy.sh/users/3809967), [Chatie](https://osu.ppy.sh/users/6524765), [KevKjef](https://osu.ppy.sh/users/9114235) |
-| ![][flag_NO] | **Norway** | **[Cameragod](https://osu.ppy.sh/users/4974088)**, [Mile](https://osu.ppy.sh/users/2760954), [Vanilla-](https://osu.ppy.sh/users/3400701), [Divine Cake](https://osu.ppy.sh/users/3636998), [Benita](https://osu.ppy.sh/users/4023183), [salchow](https://osu.ppy.sh/users/9738159) |
-| ![][flag_PH] | **Philippines** | **[Roido](https://osu.ppy.sh/users/6829103)**, [Bunnrei](https://osu.ppy.sh/users/829284), [KaganimeRin](https://osu.ppy.sh/users/1626093), [-MomoX](https://osu.ppy.sh/users/2150415), [- Kielzu -](https://osu.ppy.sh/users/6221114), [Crowley](https://osu.ppy.sh/users/6341006) |
-| ![][flag_PL] | **Poland** | **[BoberOfDarkness](https://osu.ppy.sh/users/3427748)**, [Kosmit](https://osu.ppy.sh/users/1749173), [Skyleia](https://osu.ppy.sh/users/2958293), [Rawaj](https://osu.ppy.sh/users/3716061), [Jumper-](https://osu.ppy.sh/users/6803892), [LechuCzechu88](https://osu.ppy.sh/users/5251714) |
-| ![][flag_RO] | **Romania** | **[Crystallize](https://osu.ppy.sh/users/4997316)**, [Shiroi Lelouch](https://osu.ppy.sh/users/3880553), [PakaChan](https://osu.ppy.sh/users/3080727), [L3gEnDaRy97](https://osu.ppy.sh/users/4400693), [Attenox](https://osu.ppy.sh/users/6976867) |
-| ![][flag_RU] | **Russian Federation** | **[VagaNNN](https://osu.ppy.sh/users/1260040)**, [Lacrima](https://osu.ppy.sh/users/4915649), [aoe](https://osu.ppy.sh/users/6094216), [Xetopia](https://osu.ppy.sh/users/6689101), [MeeeDBeD](https://osu.ppy.sh/users/7055384), [Kajou Ayame](https://osu.ppy.sh/users/8283671) |
-| ![][flag_KR] | **South Korea** | **[Motion](https://osu.ppy.sh/users/3885626)**, [Rocma](https://osu.ppy.sh/users/566276), [Berea](https://osu.ppy.sh/users/3657951), [\[224\]Hyperw7](https://osu.ppy.sh/users/4158549), [R-18](https://osu.ppy.sh/users/4637369), [qwhj1027](https://osu.ppy.sh/users/7547506) |
-| ![][flag_SE] | **Sweden** | **[Setomi](https://osu.ppy.sh/users/2205929)**, [DataPata](https://osu.ppy.sh/users/985360), [Yukiteru Amano](https://osu.ppy.sh/users/1894511), [Osten](https://osu.ppy.sh/users/4417929), [Aceon](https://osu.ppy.sh/users/4452911), [CocoSunshine](https://osu.ppy.sh/users/6471909) |
-| ![][flag_TW] | **Taiwan** | **[\[-naniwa-\]](https://osu.ppy.sh/users/4958376)**, [DoDoEbi](https://osu.ppy.sh/users/1177233), [ItsLingers](https://osu.ppy.sh/users/1449322), [Sanami](https://osu.ppy.sh/users/1629471), [Atsuko-Kagari](https://osu.ppy.sh/users/1957752),  [Nikaido Shinku](https://osu.ppy.sh/users/2455926) |
-| ![][flag_TH] | **Thailand** | **[Eito](https://osu.ppy.sh/users/10043310)**, [TNKSTC](https://osu.ppy.sh/users/6037121), [[-\_-Sakura-\_-]](https://osu.ppy.sh/users/8103749), [SeriOni -](https://osu.ppy.sh/users/8477520), [Nonessential](https://osu.ppy.sh/users/11056733) |
-| ![][flag_GB] | **United Kingdom** | **[Olib](https://osu.ppy.sh/users/4044289)**, [MBomb](https://osu.ppy.sh/users/3071175), [Withered Lotus](https://osu.ppy.sh/users/3546931), [Matt_H](https://osu.ppy.sh/users/4067115), [JBHyperion](https://osu.ppy.sh/users/4879508), [FABninja](https://osu.ppy.sh/users/5257769) |
-| ![][flag_US] | **United States** | **[chickenbible](https://osu.ppy.sh/users/2306637)**, [Ken Doll](https://osu.ppy.sh/users/485474), [-Kurisu-](https://osu.ppy.sh/users/500696), [Zak](https://osu.ppy.sh/users/1375955), [rostld](https://osu.ppy.sh/users/4365562), [Lexii](https://osu.ppy.sh/users/7226149) |
-| ![][flag_VE] | **Venezuela** | **[Zuleta\_](https://osu.ppy.sh/users/10287019)**, [\[Aless50\]](https://osu.ppy.sh/users/4339778), [Hisashi Shimoro](https://osu.ppy.sh/users/6736420), [Tsugumi](https://osu.ppy.sh/users/8746368),[-\[CocoaFangirl\]](https://osu.ppy.sh/users/10291253), [-\[Ketsu\]-](https://osu.ppy.sh/users/10496305) |
-| ![][flag_VN] | **Vietnam** | **[\[A\]bsolute](https://osu.ppy.sh/users/8525921)**, [Seonna](https://osu.ppy.sh/users/4677276), [Close](https://osu.ppy.sh/users/4744615), [Hana Yukiko](https://osu.ppy.sh/users/4964095), [Saaya](https://osu.ppy.sh/users/5144295), [mothernature](https://osu.ppy.sh/users/6403418) |
-
 
 
 ## Podium
@@ -99,53 +66,48 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Country |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_KR] South Korea |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_CN] China |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] Chile |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") |  |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") |  |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |  |
 
 ---
 -->
-<!--
+
 ## Mappools
 
 ## Ruleset
 
 ### Tournament Rules
 
-1. The osu!catch World Cup is a country-based team tournament, played on the osu!catch game mode.
-   - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
-2. Map scoring will use Score V2.
-3. The maps for each round will be announced by the mapset selectors in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-   - There will be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and a [DoubleTime](/wiki/Game_Modifiers) bracket.
-   - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-4. Match schedule will be settled by the Tournament Management (see below).
-5. If no staff or referee is available, the match will be postponed.
-6. Failed players' scores do not get added to the team score.
+1. This version of the OCM is a team tournament, played on the osu!catch game mode. 
+2. This competition is a 2 versus 2 setup, and the team size can be up to four members.
+3. Score V2 will be used.
+4. The tournament is open to all player, there's no restriction of country or region.
+5. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a map is considered as passing it.
-7. Use of the Visual Settings to alter background dim or disable map elements like storyboards and skins are allowed.
-8. If the beatmap ends in a draw, the game will be nullified.
-9. If a player disconnects, they get treated as if they failed the map.
-   - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
-10. Beatmaps cannot be reused in the same match unless the game was nullified.
-11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes. A 'Win by default' will be declared if there isn't enough players after this deadline.
-12. Exchanging players during a match is allowed without limitations.
-13. Lag is not a valid reason to nullify a beatmap.
-14. All players are supposed to keep the match running fluent and without delays. Excessive match delays coming from the player's side can be issued with penalties.
-15. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
-16. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
-17. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
-18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms.
-    - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
-19. In Group stage, 'Win by default' will be considered as win by 5:0, +1.0 score difference ratio.
-20. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
-21. Penalties for violating the tournament rules can be:
-    - Exclusion of specific players for one map
-    - Exclusion of specific players for an entire match
-    - Declaring the match as Lost by Default
-    - Disqualification from the entire tournament
-    - Disqualification from the current and future official tournaments until appealed
-    - Any modification of these rules will be announced.
+6. If the beatmap ends in a draw, there will be a rematch on the same map.
+7. If a player disconnects, they get treated as if they failed the map.
+   - The map can be rematch if the disconect was about 30 seconds after the map begins. This is up to the referee's discretion.
+8. If a team presents one member, the match can be posponed up to 10 minutes. After that period, default will be declared.
+9. Map selectors and tournament organizers are NOT allowed to play, while referees and streamers can do so without problems.
+10. I hope there is a good atmosphere between all teams, the team or player who is toxic or disrespectful to any staff member (or any team) will be immediately disqualified from the tournament.
 
+
+### Stage Instructions
+1. The tournament will be played with 16 teams.
+2. The 4 teams with the best rank will be considered as Top Seed, the next 4 will be High Seed, then the next 4.
+will be Low Seed, to end the Unseed teams.
+3. The groups will be formed with one team of each seed.
+4. Advance the first two teams of each group.
+5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
+**Winning conditions:**
+In Group Stage, you need to win 5 maps to win a match. (Best-of-9)
+In the Quarterfinals and the Semifinals, you need to win 6 maps to win a match. (Best-of-11)
+In the Finals and Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
+
+
+<!--
 ### Tournament Registration
 
 1. Every user interested in joining their country's team signs up individually.
