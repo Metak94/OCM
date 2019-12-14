@@ -80,7 +80,7 @@ This competition has come to an end and resulted in the following podium:
 ### Tournament Rules
 
 1. This version of the OCM is a team tournament, played on the osu!catch game mode. 
-2. This competition is a 2 versus 2 setup. The team size can be up to four members.
+2. This competition is a 2 versus 2 setup. The team size can be up to four members, with a minimum of 3 members per team.
 3. Score V2 will be used.
 4. The tournament is open to any player, there's no restriction of country or region.
 5. Failed players' scores do not get added to the team score.
