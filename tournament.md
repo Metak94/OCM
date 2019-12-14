@@ -99,7 +99,7 @@ This competition has come to an end and resulted in the following podium:
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals and Grand Finals.
 2. The tournament mappool will feature: 3 Nomod, 3 HR, 3 DT, 3 HD, 2 FL, 2 DTB and the TieBreaker, for a total of 17 maps.
-3. In the maps HR,DT and DTB is allowed to use HD.
+3. In the maps HR,DT and DTB maps, players may also use HD if desired.
 4. DTB has to be played with NF mod and the less score wins.
 5. Mappools for Finals and Grand Finals consists of 19 maps in total. 2 Freemod will be added.
 6. Free mod consist in that one player must use HR mod (or HRHD) and the other player must use nomod (or HD mod).
