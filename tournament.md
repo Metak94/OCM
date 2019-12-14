@@ -129,7 +129,7 @@ Example:
 - Captain : (Captain is a player)
 - Player 1 :
 - Player 2 :
-- Player 3 : (required due to player ban)
+- Player 3 : (required due to player ban rule)
 - Player 4 : (The fourth player is optional)
 
 ### Stage Instructions
