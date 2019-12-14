@@ -7,7 +7,7 @@ tags:
 
 ->Inserte logo aca<-
 
-Welcome everyone to the 3rd version  of the Osu Cup Master. This version will be played the osu!catch game mode. We hope you'll enjoy it and have fun on this competition.
+Welcome everyone to the 3rd version  of the Osu Cup Master. This will be the osu!catch version. We hope you'll enjoy it and have fun on this competition.
 
 ## Tournament Schedule
 
@@ -41,7 +41,7 @@ The OCM tournament was run by the next comunity members:
 | Manager | ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255) |
 | Map Selector | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
 | Commentator | ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) , ![][flag_PA] [Rei-](https://osu.ppy.sh/users/2317102) |
-| Referee | ![][flag_CL] [Hinoshi](https://osu.ppy.sh/users/9200197) ,  ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) , ![][flag_AR] [jerem1as](https://osu.ppy.sh/users/6117864) , ![][flag_MX] [MILK_16](https://osu.ppy.sh/users/9137627) |
+| Referee | ![][flag_CL] [Hinoshi](https://osu.ppy.sh/users/9200197) ,  ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) , ![][flag_AR] [jerem1as](https://osu.ppy.sh/users/6117864) , ![][flag_MX] [MILK_16](https://osu.ppy.sh/users/9137627) , ![][flag_UY] [Neimex23](https://osu.ppy.sh/users/7293703) |
 | Designer | ![][flag_MX] [ShadowMerry](https://osu.ppy.sh/users/3104864) |
 | Streamer | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
 
@@ -152,5 +152,6 @@ will be Low Seed, to end the Unseed teams.
 [flag_PA]: /images/flag/PA.gif
 [flag_PE]: /images/flag/PE.gif
 [flag_AR]: /images/flag/AR.gif   
+[flag_UY]: /images/flag/UY.gif 
 [GCrown]: /images/GCrown.png
 [SCrown]: /images/SCrown.png
