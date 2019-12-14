@@ -26,7 +26,7 @@ Welcome everyone to the 3rd version  of the Osu Cup Master. This version will be
 
 | Placing | Prize(s) |
 | :-: | :--- |
-| ![][GCrown] | winner badge for each member (to be confirmed by peppy)|
+| ![][GCrown] | winner badge for each member (to be confirmed by tournament staff)|
 | ![][SCrown] | a month of Osu!support for each member (to be confirmed)|
 
 ->inserte chapita aca<-
@@ -96,6 +96,7 @@ This competition has come to an end and resulted in the following podium:
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
 
 ### Mappool Instructions
+
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals and Grand Finals.
 2. The tournament mappool will feature: 3 Nomod, 3 HR, 3 DT, 3 HD, 2 FL, 2 DTB and the TieBreaker, for a total of 17 maps.
 3. In the maps HR,DT and DTB is allowed to use HD.
@@ -104,6 +105,7 @@ This competition has come to an end and resulted in the following podium:
 6. Free mod consist in that one player must use HR mod (or HRHD) and the other player must use nomod (or HD mod).
 
 ### Match Instructions
+
 1. Each team is free to select up to one warm-up map.
 2. Each captain has to roll a number. Both teams can ban one beatmap to be selected from the pool starting from the loser of the roll. These beatmaps are not allowed to be picked by any team in the entire match.
 3. The winner of the roll has the first pick.
@@ -115,7 +117,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Tournament Registration
 
-1. To register your team you has to go to the forum publication of the tournament (link above).
+1. To register your team you has to go to the forum publication (discussion thread) of the tournament (link above).
 2. Write down the team name and also the UTC time of each team's country. (if you can add the link of your profiles would be ideal).
 3. Remember that in order to be successfully accepted on the list, you have to make sure that you have not violated the rules of the osu! community in the last 12 months.
 4. Mapset selectors may not participate as a player in this tournament.
@@ -137,7 +139,6 @@ will be Low Seed, to end the Unseed teams.
 2. The groups will be formed with one team of each seed.
 3. Advance the first two teams of each group.
 4. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-
 
 **Winning conditions:**
 - In Group Stage, you need to win 5 maps to win a match. (Best-of-9)
