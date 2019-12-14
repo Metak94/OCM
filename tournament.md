@@ -80,20 +80,20 @@ This competition has come to an end and resulted in the following podium:
 ### Tournament Rules
 
 1. This version of the OCM is a team tournament, played on the osu!catch game mode. 
-2. This competition is a 2 versus 2 setup, and the team size can be up to four members.
+2. This competition is a 2 versus 2 setup. The team size can be up to four members.
 3. Score V2 will be used.
-4. The tournament is open to all player, there's no restriction of country or region.
+4. The tournament is open to any player, there's no restriction of country or region.
 5. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a map is considered as passing it.
 6. If the beatmap ends in a draw, there will be a rematch on the same map.
-7. If a player disconnects, they get treated as if they failed the map.
-   - The map can be rematch if the disconect was about 30 seconds after the map begins. This is up to the referee's discretion.
-8. If a team presents one member, the match can be posponed up to 10 minutes. After that period, default will be declared.
+7. If a player disconnects, they will be treated as if they failed the map.
+   - The map can be replayed if the disconect was about 30 seconds after the map begins. This is up to the referee's discretion.
+8. Teams have 10 minutes from the scheduled time to present at least 2 members. If a team cannot present 2 players after this time, the match will be declared a loss by default. 
 9. Map selectors and tournament organizers are NOT allowed to play, while referees and streamers can do so without problems.
-10. I hope there is a good atmosphere between all teams, the team or player who is toxic or disrespectful to any staff member (or any team) will be immediately disqualified from the tournament.
+10. We hope there is a good atmosphere between all teams, the team or player who is toxic or disrespectful to any staff member (or any team) will be immediately disqualified from the tournament.
 11. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.**
 12. **Reschedules may only be requested by a team captain.**
-   - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
+   - **Please do not ask for a reschedule unless it is absolutely needed. The tournament staff has the right to decline the request.**
 
 ### Mappool Instructions
 
