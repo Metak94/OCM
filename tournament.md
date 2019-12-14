@@ -139,7 +139,7 @@ will be Low Seed, to end the Unseed teams.
 2. The groups will be formed with one team of each seed.
 3. The top 2 teams of each group will qualify to the double elimination stages.
 4. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-- if a team lose a match on the loser bracket, they are eliminated from the tourney.
+5. If a team lose a match on the loser bracket, they are eliminated from the tourney.
 
 **Winning conditions:**
 - In Group Stage, you need to win 5 maps to win a match. (Best-of-9)
