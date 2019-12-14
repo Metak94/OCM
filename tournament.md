@@ -80,7 +80,7 @@ This competition has come to an end and resulted in the following podium:
 ### Tournament Rules
 
 1. This version of the OCM is a team tournament, played on the osu!catch game mode. 
-2. This competition is a 2 versus 2 setup. The team size can be up to four members, with a minimum of 3 members per team.
+2. This competition is a 2 versus 2 setup. The team size can be up to 4 members, with a minimum of 3 members per team.
 3. Score V2 will be used.
 4. The tournament is open to any player, there's no restriction of country or region.
 5. Failed players' scores do not get added to the team score.
@@ -113,8 +113,8 @@ This competition has come to an end and resulted in the following podium:
 5. **After a team reaches 3 points the opposition can ban again, like a comeback mechanic.**
 6. On this second ban, the team can choose between ban another map or a player:
    - Ban a player means that **one member of the enemy team can't play the next one map.**
-7. If it decided to ban a player to a team that has only 2 members at the time of the match, **they lose the map by default.**
-8. In case of a tie, the tiebreaker map must be played.**
+7. If a team with only 2 members present has a player banned by the opposing team, **the next map is lost by default.**
+8. In case of a tie, the tiebreaker map must be played.
 
 ### Tournament Registration
 
