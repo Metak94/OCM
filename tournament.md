@@ -108,10 +108,10 @@ This competition has come to an end and resulted in the following podium:
 2. Each captain has to roll a number. Both teams can ban one beatmap to be selected from the pool starting from the loser of the roll. These beatmaps are not allowed to be picked by any team in the entire match.
 3. The winner of the roll has the first pick.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. **After a team reaches 3 points the opposition can ban again, like a comeback mechanic.**. 
+5. **After a team reaches 3 points the opposition can ban again, like a comeback mechanic.**
 6. On this second ban, the team can choose between ban another map or a player:
-   - Ban a player means that **one member of the enemy team cant play the next one map**.
-7. In case of a tie, the tiebreaker map must be played.
+   - Ban a player means that **one member of the enemy team cant play the next one map.**
+7. In case of a tie, the tiebreaker map must be played.**
 
 ### Tournament Registration
 
