@@ -102,7 +102,7 @@ This competition has come to an end and resulted in the following podium:
 3. In the maps HR,DT and DTB maps, players may also use HD if desired.
 4. DTB is to be played with NF. The lowest combined score wins.
 5. Mappools for Finals and Grand Finals consists of 19 maps in total. 2 Freemod will be added.
-6. Free mod consist in that one player must use HR mod (or HR and HD mods) and the other player must use nomod (or HD mod).
+6. For Freemod maps, one player must use HR (with HD if desired). The other player must play with no mods or HD.
 
 ### Match Instructions
 
@@ -112,7 +112,7 @@ This competition has come to an end and resulted in the following podium:
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5. **After a team reaches 3 points the opposition can ban again, like a comeback mechanic.**
 6. On this second ban, the team can choose between ban another map or a player:
-   - Ban a player means that **one member of the enemy team cant play the next one map.**
+   - Ban a player means that **one member of the enemy team can't play the next one map.**
 7. In case of a tie, the tiebreaker map must be played.**
 
 ### Tournament Registration
