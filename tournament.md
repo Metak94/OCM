@@ -117,7 +117,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Tournament Registration
 
-1. To register your team you has to go to the forum publication (discussion thread) of the tournament (link above).
+1. To register your team, go to the forum publication (discussion thread) of the tournament (link above).
 2. Write down the team name and also the UTC time of each team's country. (if you can add the link of your profiles would be ideal).
 3. Remember that in order to be successfully accepted on the list, you have to make sure that you have not violated the rules of the osu! community in the last 12 months.
 4. Mapset selectors may not participate as a player in this tournament.
