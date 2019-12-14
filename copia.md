@@ -91,6 +91,17 @@ This competition has come to an end and resulted in the following podium:
 8. If a team presents one member, the match can be posponed up to 10 minutes. After that period, default will be declared.
 9. Map selectors and tournament organizers are NOT allowed to play, while referees and streamers can do so without problems.
 10. I hope there is a good atmosphere between all teams, the team or player who is toxic or disrespectful to any staff member (or any team) will be immediately disqualified from the tournament.
+11. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.**
+12. **Reschedules may only be requested by a team captain.**
+   - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
+
+### Mappool Instructions
+1. There will be 1 mappool for the Group Stage, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals and Grand Finals.
+2. The tournament mappool will feature: 3 Nomod, 3 HR, 3 DT, 3 HD, 2 FL, 2 DTB and the TieBreaker, for a total of 17 maps.
+3. In the maps HR,DT and DTB is allowed to use HD.
+4. DTB has to be played with NF mod and the less score wins.
+5. Mappools for Finals and Grand Finals consists of 19 maps in total. 2 Freemod will be added.
+6. Free mod consist in that one player must use HR mod (or HRHD) and the other player must use nomod (or HD mod).
 
 ### Match Instructions
 1. Each team is free to select up to one warm-up map.
@@ -99,7 +110,7 @@ This competition has come to an end and resulted in the following podium:
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5. **After a team reaches 3 points the opposition can ban again, like a comeback mechanic.**. 
 6. On this second ban, the team can choose between ban another map or a player:
-   - Ban a player means that **one member of the enemy team cant play the next map**.
+   - Ban a player means that **one member of the enemy team cant play the next one map**.
 7. In case of a tie, the tiebreaker map must be played.
 
 ### Tournament Registration
@@ -135,43 +146,10 @@ will be Low Seed, to end the Unseed teams.
 
 
 
-
-<!--
-
-### Mappool Instructions
-
-1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
-2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers).
-3. Mappools for Groups Stage, Round of 16 and Quarterfinals consists of 16 maps in total.
-4. **Mappools for Semifinals, Finals and Grand Finals consists of 19 maps in total.**
-5. Each mappool has one tiebreaker.
-6. The NoMod bracket will be played with no mods activated.
-7. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
-   - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
-8. The tiebreaker will be played with no mods selected or with the Hidden mod.
-9. There will be 6 maps in the NoMod bracket for all stages.
-10. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 3 in Groups Stage, Round of 16 and Quarterfinals.
-11. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 4 in Semifinals, Finals and Grand Finals.
-
-### Scheduling Instructions
-
-1. Each stage will be held on **a single weekend**.
-2. Matches in Group Stage may overlap.
-3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
-   - Finals stage may have matches on Friday, depending on the occuring encounters.
-4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
-   - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
-5. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.**
-6. **Reschedules may only be requested by a team captain.**
-   - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
-7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
--->
-
-
 [flag_MX]: /images/flag/MX.gif
 [flag_CL]: /images/flag/CL.gif
 [flag_PA]: /images/flag/PA.gif
 [flag_PE]: /images/flag/PE.gif
-[flag_AR]: /images/flag/AR.gif
+[flag_AR]: /images/flag/AR.gif   
 [GCrown]: /images/GCrown.png
 [SCrown]: /images/SCrown.png
