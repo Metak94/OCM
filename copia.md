@@ -107,9 +107,24 @@ will be Low Seed, to end the Unseed teams.
 - In the Finals and Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
 
 
-<!--
+
 ### Tournament Registration
 
+1. To register your team you has to go to the forum publication of the tournament (link above).
+2. Write down the team name and also the UTC time of each team's country. (if you can add the link of your profiles would be ideal).
+3. Remember that in order to be successfully accepted on the list, you have to make sure that you have not violated the rules of the osu! community in the last 12 months.
+Example:
+Team Name :
+Team image : Send it by discord in the corresponding section.(#💾team-images)
+Captain :
+Player 1 :
+Player 2 :
+Player 3 : 
+player 4 : (The fourth player is optional)
+(Captain is a player)
+
+
+<!--
 1. Every user interested in joining their country's team signs up individually.
    - Tournament Management will create a list of potential candidates for a country's team.
    - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
