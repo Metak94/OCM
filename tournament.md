@@ -27,13 +27,13 @@ Welcome everyone to the 3rd version  of the Osu Cup Master. This will be the osu
 | Placing | Prize(s) |
 | :-: | :--- |
 | ![][GCrown] | winner badge for each member (to be confirmed by tournament staff)|
-| ![][SCrown] | a month of Osu!support for each member (to be confirmed)|
+| ![][SCrown] | a month of osu!supporter for each member (to be confirmed)|
 
 ->inserte chapita aca<-
 
 ## Organisation
 
-The OCM tournament was run by the next comunity members:
+The OCM tournament is run by the next comunity members:
 
 | Position | Members |
 | :-: | :--- |
