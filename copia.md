@@ -92,14 +92,41 @@ This competition has come to an end and resulted in the following podium:
 9. Map selectors and tournament organizers are NOT allowed to play, while referees and streamers can do so without problems.
 10. I hope there is a good atmosphere between all teams, the team or player who is toxic or disrespectful to any staff member (or any team) will be immediately disqualified from the tournament.
 
+### Match Instructions
+1. Each team is free to select up to one warm-up map.
+2. Each captain has to roll a number. Both teams can ban one beatmap to be selected from the pool starting from the loser of the roll. These beatmaps are not allowed to be picked by any team in the entire match.
+3. The winner of the roll has the first pick.
+4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
+5. **After a team reaches 3 points the opposition can ban again, like a comeback mechanic.**. 
+6. On this second ban, the team can choose between ban another map or a player:
+   - Ban a player means that **one member of the enemy team cant play the next map**.
+7. In case of a tie, the tiebreaker map must be played.
+
+### Tournament Registration
+
+1. To register your team you has to go to the forum publication of the tournament (link above).
+2. Write down the team name and also the UTC time of each team's country. (if you can add the link of your profiles would be ideal).
+3. Remember that in order to be successfully accepted on the list, you have to make sure that you have not violated the rules of the osu! community in the last 12 months.
+4. Mapset selectors may not participate as a player in this tournament.
+5. The tournament will be played with 16 teams.
+
+Example:
+- Team Name :
+- Team image : Send it by discord in the corresponding section.(#💾team-images)
+- Captain : (Captain is a player)
+- Player 1 :
+- Player 2 :
+- Player 3 : (required due to player ban)
+- Player 4 : (The fourth player is optional)
 
 ### Stage Instructions
-1. The tournament will be played with 16 teams.
-2. The 4 teams with the best rank will be considered as Top Seed, the next 4 will be High Seed, then the next 4.
+
+1. The 4 teams with the best rank will be considered as Top Seed, the next 4 will be High Seed, then the next 4.
 will be Low Seed, to end the Unseed teams.
-3. The groups will be formed with one team of each seed.
-4. Advance the first two teams of each group.
-5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+2. The groups will be formed with one team of each seed.
+3. Advance the first two teams of each group.
+4. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 
 **Winning conditions:**
 - In Group Stage, you need to win 5 maps to win a match. (Best-of-9)
@@ -108,81 +135,8 @@ will be Low Seed, to end the Unseed teams.
 
 
 
-### Tournament Registration
-
-1. To register your team you has to go to the forum publication of the tournament (link above).
-2. Write down the team name and also the UTC time of each team's country. (if you can add the link of your profiles would be ideal).
-3. Remember that in order to be successfully accepted on the list, you have to make sure that you have not violated the rules of the osu! community in the last 12 months.
-Example:
-Team Name :
-Team image : Send it by discord in the corresponding section.(#💾team-images)
-Captain :
-Player 1 :
-Player 2 :
-Player 3 : 
-player 4 : (The fourth player is optional)
-(Captain is a player)
-
 
 <!--
-1. Every user interested in joining their country's team signs up individually.
-   - Tournament Management will create a list of potential candidates for a country's team.
-   - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
-   - The declared captain can form their team from the candidate list of their country.
-2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
-   - Every registered user will be assigned to their respective country's candidate list.
-   - To be successfully accepted on the list, you have to ensure that your global osu!catch performance ranking is above 5000.
-   - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
-3. All successfully formed teams will be published after the Registration Phase.
-4. Only the 32 potentially strongest countries will participate. The potential strength of a country is determined by the online statistics of all valid candidates.
-   - If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
-5. Mapset selectors may not participate as a player in this tournament.
-
-### Stage Instructions
-
-1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
-   - This may change depending on how many teams are accepted into the competition at the end.
-2. All the teams from each group will face each other.
-3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-   - Most matches won.
-   - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
-   - Most beatmaps won.
-   - **Winner of the match played previously between the tied teams.**
-   - In the event of a triple tie:
-     - Have higher `∑{(total score difference) / (maximum score)}`.
-     - Winner of the rematch.
-4. The top 2 teams of each group will move on to the Knock-Out Stages.
-   - This may change with the actual Group Stage setup.
-5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
-
-| Stage | Match ID |
-| --: | :-- |
-| Round of 16 |  A, B, C, D, E, F, G, H |
-| Quarterfinals | I, J, K, L & R, S, T, U |
-| Semifinals | M, N & V, W, X, Y, Z, AA |
-| Finals | O & AB, AC, AD |
-| Grand Finals | AE, P, Q |
-
-**Winning conditions:**
-   - In Group Stage, you need to win 5 maps to win a match. (Best-of-9)
-   - In the Round of 16 and the Quarterfinals, you need to win 6 maps to win a match. (Best-of-11)
-   - In the **Semifinals, Finals and Grand Finals**, you need to win 7 maps to win the match. (Best-of-13)
-
-### Match Instructions
-
-1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!catch, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "CWC 2019: (TeamRed) vs (TeamBlue)".
-   - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
-2. Each team is free to select up to one warm-up map. Using beatmaps with questionable content is prohibited. All maps must be osu!catch specific maps.
-3. Each captain can ban one beatmap to be selected from the pool **at the start of the match**. These beatmaps are not allowed to be picked by any team in the entire match.
-4. **After a team reaches 3 points the opposition can ban another map as a comeback mechanic.**. This means that both teams can potentially ban up to **two maps** during the entirety of the match.
-5. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-6. Each captain must use "!roll" once in #multiplayer.
-   - **The winner of the !roll decides if they want to pick and ban first, or pick and ban second.**
-7. Captains may pick freely from any bracket.
-   - In case of a tie, the tiebreaker map must be played.
-8. Results of the Group Stage will be published via a Statistics sheet.
 
 ### Mappool Instructions
 
