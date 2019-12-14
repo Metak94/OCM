@@ -113,7 +113,8 @@ This competition has come to an end and resulted in the following podium:
 5. **After a team reaches 3 points the opposition can ban again, like a comeback mechanic.**
 6. On this second ban, the team can choose between ban another map or a player:
    - Ban a player means that **one member of the enemy team can't play the next one map.**
-7. In case of a tie, the tiebreaker map must be played.**
+7. If it decided to ban a player to a team that has only 2 members at the time of the match, **they lose the map by default.**
+8. In case of a tie, the tiebreaker map must be played.**
 
 ### Tournament Registration
 
