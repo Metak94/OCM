@@ -120,7 +120,7 @@ This competition has come to an end and resulted in the following podium:
 ### Tournament Registration
 
 1. To register your team, go to the forum publication (discussion thread) of the tournament (link above).
-2. Write down the team name and also the UTC time of each team's country. (if you can add the link of your profiles would be ideal).
+2. Write down the team name and also the UTC time of each team's country. (Adding links to your team's profiles would be helpful).
 3. Remember that in order to be successfully accepted on the list, you have to make sure that you have not violated the rules of the osu! community in the last 12 months.
 4. Mapset selectors may not participate as a player in this tournament.
 5. The tournament will be played with 16 teams.
@@ -141,7 +141,7 @@ will be Low Seed, to end the Unseed teams.
 2. The groups will be formed with one team of each seed.
 3. The top 2 teams of each group will qualify to the double elimination stages.
 4. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-5. If a team lose a match on the loser bracket, they are eliminated from the tourney.
+5. If a team loses a match on the loser bracket, they are eliminated from the tourney.
 
 **Winning conditions:**
 - In Group Stage, you need to win 5 maps to win a match. (Best-of-9)
