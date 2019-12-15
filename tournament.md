@@ -48,15 +48,16 @@ The OCM tournament is run by the next comunity members:
 
 ## Links
 
-- [Discussion thread](inserte link del post)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/997764)
 - [Livestream](https://www.twitch.tv/osucupmaster)
 - [Discord server](https://discord.gg/Y9MKD8m)
+- [Twitter](https://twitter.com/CupOsu)
 
 ---
 <!--
 ## Participants
 
-|  | Country | Members |
+|  | Team name| Members |
 | :-: | :-: | :-- |
 
 
@@ -90,7 +91,7 @@ This competition has come to an end and resulted in the following podium:
    - The map can be replayed if the disconect was about 30 seconds after the map begins. This is up to the referee's discretion.
 8. Teams have 10 minutes from the scheduled time to present at least 2 members. If a team cannot present 2 players after this time, the match will be declared a loss by default. 
 9. Map selectors and tournament organizers are NOT allowed to play, while referees and streamers can do so without problems.
-10. We hope there is a good atmosphere between all teams, the team or player who is toxic or disrespectful to any staff member (or any team) will be immediately disqualified from the tournament.
+10. We hope there is a good atmosphere between all teams, any team or player who is toxic or disrespectful to any staff member (or any team) will be immediately disqualified from the tournament.
 11. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.**
 12. **Reschedules may only be requested by a team captain.**
    - **Please do not ask for a reschedule unless it is absolutely needed. The tournament staff has the right to decline the request.**
